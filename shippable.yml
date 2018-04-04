@@ -10,6 +10,6 @@ jobs:
          script:
            - /usr/local/scala-2.12.5/bin/scala -version
            - /usr/local/scala-2.11.12/bin/scala -version
-           - /usr/local/scala-2.10.7/bin/scala -version || true
+           - /usr/local/scala-2.10.7/bin/scala -version 
 
           
